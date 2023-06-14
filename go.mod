@@ -1,4 +1,4 @@
-module github/Ciyfly/FakerVitess
+module github.com/Ciyfly/FakerVitess
 
 go 1.18
 
