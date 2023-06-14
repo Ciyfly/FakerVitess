@@ -18,7 +18,7 @@ package mysql
 
 import (
 	"bytes"
-	ylog "dreamland/lib/log"
+	ylog "mallow/pkg/log"
 	"encoding/json"
 	"flag"
 	"fmt"
