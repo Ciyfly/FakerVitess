@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"strings"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
 )
 
 // Functions in this file should only be used for testing.

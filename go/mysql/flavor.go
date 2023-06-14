@@ -22,9 +22,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Ciyfly/vitess/go/sqltypes"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 	"golang.org/x/net/context"
 )
 

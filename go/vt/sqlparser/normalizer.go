@@ -19,9 +19,9 @@ package sqlparser
 import (
 	"fmt"
 
-	"github.com/Ciyfly/vitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
 )
 
 // Normalize changes the statement to use bind values, and

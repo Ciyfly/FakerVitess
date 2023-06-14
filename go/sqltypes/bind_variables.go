@@ -24,7 +24,7 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
 )
 
 // NullBindVariable is a bindvar with NULL value.

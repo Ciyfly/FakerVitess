@@ -30,10 +30,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Ciyfly/vitess/go/vt/log"
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 var (

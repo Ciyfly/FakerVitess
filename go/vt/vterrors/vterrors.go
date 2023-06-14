@@ -90,7 +90,7 @@ import (
 	"fmt"
 	"io"
 
-	vtrpcpb "github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
+	vtrpcpb "github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
 	"golang.org/x/net/context"
 )
 

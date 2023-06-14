@@ -20,7 +20,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/Ciyfly/vitess/go/cache"
+	"github.com/Ciyfly/FakerVitess/go/cache"
 )
 
 // Consolidator consolidates duplicate queries from executing simulaneously

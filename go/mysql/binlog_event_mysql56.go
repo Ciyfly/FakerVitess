@@ -19,8 +19,8 @@ package mysql
 import (
 	"encoding/binary"
 
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 // mysql56BinlogEvent wraps a raw packet buffer and provides methods to examine

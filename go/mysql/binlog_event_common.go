@@ -20,9 +20,9 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	binlogdatapb "github.com/Ciyfly/vitess/go/vt/proto/binlogdata"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	binlogdatapb "github.com/Ciyfly/FakerVitess/go/vt/proto/binlogdata"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 // binlogEvent wraps a raw packet buffer and provides methods to examine it

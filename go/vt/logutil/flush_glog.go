@@ -17,7 +17,7 @@ limitations under the License.
 package logutil
 
 import (
-	"github.com/Ciyfly/vitess/go/vt/log"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
 )
 
 func init() {

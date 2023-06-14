@@ -23,15 +23,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Ciyfly/vitess/go/netutil"
-	"github.com/Ciyfly/vitess/go/sqltypes"
-	"github.com/Ciyfly/vitess/go/stats"
-	"github.com/Ciyfly/vitess/go/sync2"
-	"github.com/Ciyfly/vitess/go/tb"
-	"github.com/Ciyfly/vitess/go/vt/log"
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/netutil"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/stats"
+	"github.com/Ciyfly/FakerVitess/go/sync2"
+	"github.com/Ciyfly/FakerVitess/go/tb"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 const (

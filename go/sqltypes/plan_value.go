@@ -19,9 +19,9 @@ package sqltypes
 import (
 	"encoding/json"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
-	vtrpcpb "github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	vtrpcpb "github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 // PlanValue represents a value or a list of values for

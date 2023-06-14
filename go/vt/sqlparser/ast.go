@@ -25,12 +25,12 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Ciyfly/vitess/go/sqltypes"
-	"github.com/Ciyfly/vitess/go/vt/log"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
-	vtrpcpb "github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	vtrpcpb "github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
 )
 
 // parserPool is a pool for parser objects.

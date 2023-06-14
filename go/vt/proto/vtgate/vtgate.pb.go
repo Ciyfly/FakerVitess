@@ -7,10 +7,10 @@ import (
 	fmt "fmt"
 	math "math"
 
-	binlogdata "github.com/Ciyfly/vitess/go/vt/proto/binlogdata"
-	query "github.com/Ciyfly/vitess/go/vt/proto/query"
-	topodata "github.com/Ciyfly/vitess/go/vt/proto/topodata"
-	vtrpc "github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
+	binlogdata "github.com/Ciyfly/FakerVitess/go/vt/proto/binlogdata"
+	query "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	topodata "github.com/Ciyfly/FakerVitess/go/vt/proto/topodata"
+	vtrpc "github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
 	proto "github.com/golang/protobuf/proto"
 )
 

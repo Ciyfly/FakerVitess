@@ -7,7 +7,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	vttime "github.com/Ciyfly/vitess/go/vt/proto/vttime"
+	vttime "github.com/Ciyfly/FakerVitess/go/vt/proto/vttime"
 	proto "github.com/golang/protobuf/proto"
 )
 

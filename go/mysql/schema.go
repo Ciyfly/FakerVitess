@@ -19,9 +19,9 @@ package mysql
 import (
 	"fmt"
 
-	"github.com/Ciyfly/vitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
 
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
 )
 
 // This file provides a few utility variables and methods, mostly for tests.

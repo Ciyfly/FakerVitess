@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/Ciyfly/vitess/go/sync2"
+	"github.com/Ciyfly/FakerVitess/go/sync2"
 )
 
 // Histogram tracks counts and totals while

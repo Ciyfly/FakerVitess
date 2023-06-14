@@ -30,14 +30,14 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Ciyfly/vitess/go/bucketpool"
-	"github.com/Ciyfly/vitess/go/sqltypes"
-	"github.com/Ciyfly/vitess/go/sync2"
-	"github.com/Ciyfly/vitess/go/vt/log"
-	querypb "github.com/Ciyfly/vitess/go/vt/proto/query"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/sqlparser"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/bucketpool"
+	"github.com/Ciyfly/FakerVitess/go/sqltypes"
+	"github.com/Ciyfly/FakerVitess/go/sync2"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
+	querypb "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/sqlparser"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 const (

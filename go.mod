@@ -3,7 +3,6 @@ module github.com/Ciyfly/FakerVitess
 go 1.18
 
 require (
-	github.com/Ciyfly/vitess v0.0.3
 	github.com/golang/glog v1.1.1
 	github.com/golang/protobuf v1.5.3
 	golang.org/x/net v0.11.0

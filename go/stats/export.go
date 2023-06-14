@@ -36,7 +36,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Ciyfly/vitess/go/vt/log"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
 )
 
 var emitStats = flag.Bool("emit_stats", false, "true iff we should emit stats to push-based monitoring/stats backends")

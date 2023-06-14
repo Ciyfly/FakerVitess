@@ -24,9 +24,9 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Ciyfly/vitess/go/vt/log"
-	"github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
-	"github.com/Ciyfly/vitess/go/vt/vterrors"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
+	"github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
+	"github.com/Ciyfly/FakerVitess/go/vt/vterrors"
 )
 
 // AuthServer is the interface that servers must implement to validate

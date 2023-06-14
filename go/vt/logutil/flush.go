@@ -17,7 +17,7 @@ limitations under the License.
 package logutil
 
 import (
-	"github.com/Ciyfly/vitess/go/event"
+	"github.com/Ciyfly/FakerVitess/go/event"
 )
 
 var (

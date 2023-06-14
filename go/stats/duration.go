@@ -20,7 +20,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Ciyfly/vitess/go/sync2"
+	"github.com/Ciyfly/FakerVitess/go/sync2"
 )
 
 // CounterDuration exports a time.Duration as counter.

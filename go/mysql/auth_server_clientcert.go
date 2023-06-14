@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/Ciyfly/vitess/go/vt/log"
+	"github.com/Ciyfly/FakerVitess/go/vt/log"
 )
 
 var clientcertAuthMethod = flag.String("mysql_clientcert_auth_method", MysqlClearPassword, "client-side authentication method to use. Supported values: mysql_clear_password, dialog.")

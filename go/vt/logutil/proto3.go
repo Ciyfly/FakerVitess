@@ -19,8 +19,8 @@ package logutil
 import (
 	"time"
 
-	logutilpb "github.com/Ciyfly/vitess/go/vt/proto/logutil"
-	vttimepb "github.com/Ciyfly/vitess/go/vt/proto/vttime"
+	logutilpb "github.com/Ciyfly/FakerVitess/go/vt/proto/logutil"
+	vttimepb "github.com/Ciyfly/FakerVitess/go/vt/proto/vttime"
 )
 
 // This file contains a few functions to help with proto3.

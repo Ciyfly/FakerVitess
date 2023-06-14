@@ -7,9 +7,9 @@ import (
 	fmt "fmt"
 	math "math"
 
-	query "github.com/Ciyfly/vitess/go/vt/proto/query"
-	topodata "github.com/Ciyfly/vitess/go/vt/proto/topodata"
-	vtrpc "github.com/Ciyfly/vitess/go/vt/proto/vtrpc"
+	query "github.com/Ciyfly/FakerVitess/go/vt/proto/query"
+	topodata "github.com/Ciyfly/FakerVitess/go/vt/proto/topodata"
+	vtrpc "github.com/Ciyfly/FakerVitess/go/vt/proto/vtrpc"
 	proto "github.com/golang/protobuf/proto"
 )
 
